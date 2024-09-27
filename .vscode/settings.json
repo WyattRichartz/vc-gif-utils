@@ -19,5 +19,8 @@
             "domain": "codeberg.org",
             "type": "Gitea"
         }
-    ]
+    ],
+    "files.associations": {
+        "plyconfig.json": "jsonc"
+    }
 }
